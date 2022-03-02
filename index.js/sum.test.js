@@ -1,4 +1,3 @@
-
 const sum = require('./sum')
 
 test('add two numbers properly', () => {
